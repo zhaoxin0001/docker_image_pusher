@@ -4,6 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 jenkins/jenkins:latest
 sonarqube/sonarqube:9.9.6-community
-
+mysql
 
 
