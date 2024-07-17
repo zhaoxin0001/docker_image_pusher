@@ -3,7 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 jenkins/jenkins:latest
-sonarqube/sonarqube:10.6-community
+sonarqube/sonarqube:lts
 
 
 
