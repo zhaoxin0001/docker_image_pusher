@@ -6,6 +6,7 @@ jenkins/jenkins:latest
 sonarqube:9.9-community
 postgres:16.0
 openjdk:8-jdk-alpine
+mysql:8.0
 
 
 
