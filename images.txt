@@ -8,9 +8,9 @@ postgres:16.0
 openjdk:8-jdk-alpine
 mysql:8.0
 mysql:5.7
-redis:latest
-mongo:latest
-rabbitmq:latest
+redis
+mongo
+rabbitmq
 
 
 
