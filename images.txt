@@ -10,6 +10,7 @@ mysql:5.7
 redis
 mongo
 rabbitmq
+openjdk:17-jdk-alpine
 
 
 
