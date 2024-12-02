@@ -11,6 +11,4 @@ redis
 mongo
 rabbitmq
 openjdk:17-jdk-alpine
-
-
-
+jenkins/jenkins:2.479.2-lts
