@@ -12,3 +12,4 @@ mongo
 rabbitmq
 openjdk:17-jdk-alpine
 jenkins/jenkins:2.479.2-lts
+docker.n8n.io/n8nio/n8n:latest
